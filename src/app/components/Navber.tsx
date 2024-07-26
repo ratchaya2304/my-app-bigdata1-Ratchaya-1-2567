@@ -26,7 +26,10 @@ export default function Navber() {
                 <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">ChatGPT</a>
+                <a href="/evaluation">การประเมินโยบายสาธารณะ</a>
+              </li>
+              <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
+                <a href="/chatgpt">ChatGPT</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ทีมงาน</a>
